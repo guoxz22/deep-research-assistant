@@ -18,7 +18,15 @@
 
 ## 🖼️ 截图
 
-> 研究界面展示（可添加实际截图）
+![首页](assets/images/1.png)
+
+![搜索页](assets/images/2.png)
+
+![完整报告](assets/images/3.png)
+
+![要点清单](assets/images/4.png)
+
+![对比表格](assets/images/5.png)
 
 ## 🚀 快速开始
 
