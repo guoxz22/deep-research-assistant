@@ -1,0 +1,24 @@
+# FastAPI 框架
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# LangChain 生态
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langgraph>=0.0.40
+
+# 搜索工具
+tavily-python>=0.3.0
+
+# 配置管理
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# 异步支持
+aiofiles>=23.2.1
+httpx>=0.25.0
+
+# 工具库
+typing-extensions>=4.8.0
